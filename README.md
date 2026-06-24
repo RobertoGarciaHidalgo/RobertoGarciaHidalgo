@@ -22,6 +22,7 @@ Tecnologías
 Experiencia
 
 Programador Junior @ Lean Mind (Mar – May 2026) — TDD, Mocks, OOP
+
 Programador Junior @ Laberit (May – Jun 2025) — Desarrollo de herramienta web para escaneo y análisis de redes
 DAW · IES Las Galletas
 
